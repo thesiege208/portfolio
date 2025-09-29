@@ -38,7 +38,7 @@ p {
 }
 
 .navbar img {
-    max-width: 2vw;
+    max-height: 1em;
 }
 
 .navbar a:hover,
