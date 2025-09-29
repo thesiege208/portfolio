@@ -36,41 +36,20 @@ p {
     max-width: 2vw;
 }
 
-.section {
-    max-width: 100%;
-    display: block;
-}
-
 /* use 89A8B2 / D1E9F6 as accent color */
-#intro {
-    background-color: #fff;
-    color: #000;
-}
 
 /* use B3C8CF / FFF7D1 as accent color */
-#writing {
-    background-color: #fff;
-    color: #000;
-}
 
 /* use E5E1DA / FFE3E3 as accent color */
-#video {
-    background-color: #fff;
-    color: #000;
-}
 
 /* use F1F0E8 / C1CFA1 as accent color */
-#code {
-    background-color: #fff;
-    color: #000;
-}
 
 .container {
     display: grid;
     padding: 7vh 5vw;
     justify-content: space-evenly;
     max-width: 100%;
-    gap: 2vh 2vw;
+    gap: 2vh 0;
     margin: 2em 0;
 }
 
